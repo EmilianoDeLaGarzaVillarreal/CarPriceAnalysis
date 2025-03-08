@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e50c506-6170-4649-930d-2d8d53d200c1" name="Changes" comment="Updated README.md">
+    <list default="true" id="0e50c506-6170-4649-930d-2d8d53d200c1" name="Changes" comment="Modified color pallet of scatter plot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/emili/PycharmProjects/CarPricePrediction",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/emili/PycharmProjects/CarPricePrediction&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\emili\PycharmProjects\CarPricePrediction\data" />
@@ -88,7 +87,10 @@
       <workItem from="1740709291950" duration="3112000" />
       <workItem from="1740784758520" duration="41000" />
       <workItem from="1740784827503" duration="11469000" />
-      <workItem from="1740942699642" duration="9281000" />
+      <workItem from="1740942699642" duration="9969000" />
+      <workItem from="1741040912284" duration="165000" />
+      <workItem from="1741120854253" duration="2584000" />
+      <workItem from="1741405391671" duration="6785000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -138,7 +140,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740797182331</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Started adding a story for the charts, updated requirements.txt, and added a few extra charts.">
+      <option name="closed" value="true" />
+      <created>1740960562576</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740960562576</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added a few more descriptions to the graph and modified them to look more professional">
+      <option name="closed" value="true" />
+      <created>1741123432323</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741123432323</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Modified color pallet of scatter plot">
+      <option name="closed" value="true" />
+      <created>1741405516017</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741405516017</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +176,9 @@
     <MESSAGE value="Added lineplot comparing price vs age of the car grouped by brand of cars" />
     <MESSAGE value="Includes more details and look more professional." />
     <MESSAGE value="Updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
+    <MESSAGE value="Started adding a story for the charts, updated requirements.txt, and added a few extra charts." />
+    <MESSAGE value="Added a few more descriptions to the graph and modified them to look more professional" />
+    <MESSAGE value="Modified color pallet of scatter plot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified color pallet of scatter plot" />
   </component>
 </project>
