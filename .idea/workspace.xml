@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e50c506-6170-4649-930d-2d8d53d200c1" name="Changes" comment="Added Machine Learning Predictor using Sklearn">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="0e50c506-6170-4649-930d-2d8d53d200c1" name="Changes" comment="Finished CarPriceAnalysis.ipynb and updated requirements.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +90,7 @@
       <workItem from="1741405391671" duration="7480000" />
       <workItem from="1741455167878" duration="5847000" />
       <workItem from="1741471403086" duration="2752000" />
-      <workItem from="1741483648135" duration="1983000" />
+      <workItem from="1741483648135" duration="3865000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -176,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741413656397</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finished CarPriceAnalysis.ipynb and updated requirements.txt">
+      <option name="closed" value="true" />
+      <created>1741497524360</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741497524360</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +196,7 @@
     <MESSAGE value="Added a few more descriptions to the graph and modified them to look more professional" />
     <MESSAGE value="Modified color pallet of scatter plot" />
     <MESSAGE value="Added Machine Learning Predictor using Sklearn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Machine Learning Predictor using Sklearn" />
+    <MESSAGE value="Finished CarPriceAnalysis.ipynb and updated requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished CarPriceAnalysis.ipynb and updated requirements.txt" />
   </component>
 </project>
