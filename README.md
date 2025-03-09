@@ -7,6 +7,7 @@
   <li>Dependencies</li>
   <li>Dataset</li>
   <li>Results</li>
+  <li>Machine Learning</li>
 </ul>
 <h3>Installation</h3>
 <p>To run the project, clone this repository and install the necessary dependencies using pip.</p>
