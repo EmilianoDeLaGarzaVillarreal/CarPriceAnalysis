@@ -3,14 +3,10 @@
 <p>If you have ever wondered what are the specifications and brand of a comfortable, stylish, and at the same time an affordable car, you do not need to look any further. In this project I will cover car ranging from $2,000 to $18,000 dollars</p>
 <h3>Table of contents</h3>
 <ul>
-  <li href="README.md:16">Installation</li>
+  <li>Installation</li>
   <li>Dependencies</li>
-  <li>Data Description</li>
-  <li>Usage</li>
-  <li>Models</li>
+  <li>Dataset</li>
   <li>Results</li>
-  <li>Contributing</li>
-  <li>License</li>
 </ul>
 <h3>Installation</h3>
 <p>To run the project, clone this repository and install the necessary dependencies using pip.</p>
@@ -57,10 +53,24 @@ pip install -r requirements.txt
 ```console
 pip install -r requirements.txt
 ```
+<h3>Dataset</h3>
+<p>Dataset can be obtained from by running the following command on you systems bash:</p>
 
-<h1>IN PROCESS...</h1>
+```console
+curl -L -o ~/Downloads/car-price-dataset.zip\https://www.kaggle.com/api/v1/datasets/download/asinow/car-price-dataset</p>
+``` 
+ 
+<p>Or by visiting https://www.kaggle.com/datasets/asinow/car-price-dataset and downloading the zip file</p>
 
-
-
+<h3>Results</h3>
+<img src="img/PriceDistribution.png" alt="Price Distribution">
+<img src="img/Heatmap.png" alt="Correlations">
+<img src="img/CategoricalDistribution.png" alt="Categorical Distribution">
+<img src="img/PriceRangeBox.png" alt="Price Boxplot">
+<img src="img/ScatterEffects.png" alt="Scatter Effects">
+<img src="img/EngineSize.png" alt="Engine Size vs Price">
+<img src="img/ML-scatter-one.png" alt="R-squared Score and Actual vs Predicted Price">
+<img src="img/ML-scatter-two.png" alt="Residuals">
+<img src="img/ML-scatter-three.png" alt="Residual with GridSearch and Normalized features">
 
 
